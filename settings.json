@@ -119,9 +119,9 @@
             "cursorShape" : "bar",
             "fontFace" : "Consolas",
             "fontSize" : 13,
-            "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+            "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
             "historySize" : 9001,
-            "icon" : "ms-appdata:///local/Ubuntu.svg",
+            "icon" : "ms-appdata:///local/Ubuntu-icon.png",//wsl的guid需要根据个人电脑原来的设置进行配置，否则找不到,icon不支持svg格式
             "hidden": false,
             "name": "Ubuntu 20.04",
             "source": "Windows.Terminal.Wsl",
@@ -131,6 +131,7 @@
             "tabTitle" : "Azure Cloud Shell",
             "useAcrylic" : true
         }
+
     ],
     "schemes" : [
         {
